@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: justify;
+}
+.form {
+  background-color: aqua; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 15px 32px;
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid red;
+}
+.task {
+  background-color: lightblue;
+  width: 200px;
+}
+.sj1{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
